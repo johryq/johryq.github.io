@@ -1,0 +1,239 @@
+baseURL: ""
+title: "2332334"
+languageCode: zh-cn
+copyright: "© [2332334](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+theme: ["PaperMod"]
+license: MIT
+paginate: 5
+
+enableInlineShortcodes: true
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  author: 2332334
+  description: false
+  keywords: [Blog, 2332334, PaperMod]
+  DateFormat: "2006-01-02"
+
+  defaultTheme: auto # dark, light
+
+  disableThemeToggle: false
+
+  # 添加一个按钮，通过使用帖子的文件路径链接到编辑目标来建议更改。
+  editPost:
+    URL: ""
+    Text: "" # edit text
+    appendFilePath: false # to append file path to Edit link
+
+  ShowToc: true
+  TocOpen: true
+  # 痕迹导航
+  ShowBreadCrumbs: true
+  # 代码块copy
+  ShowCodeCopyButtons: true
+  ShowReadingTime: false
+  ShowShareButtons: false
+  # 底部 上下条
+  ShowPostNavLinks: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  displayFullLangName: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+
+  # 顶置基本信息
+  homeInfoParams:
+    Title: Hi there wave 2332334
+    Content: Can be Info, links, about...
+  # icon 链接
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/adityatelange/hugo-PaperMod"
+    # - name: Discord
+    #   title: Join discord community
+    #   url: "https://discord.gg/ahpmTvhVmp"
+
+  # comments: false
+  images: ["images/papermod-cover.png"]
+
+  profileMode:
+    enabled: false
+    title: PaperMod
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+  # search setting
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+  # 减少网站的生成时间和大小
+  cover:
+    responsiveImages: false
+
+  # label:
+  # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
+  # text: "Home"
+  # icon: icon.png
+  # iconHeight: 35
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  assets:
+        # 摘要
+    disableFingerprinting: true
+    highlight: true
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    # noClasses: false
+    style: monokai
+    disableHLJS: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
+
+
+taxonomies:
+  author: "2332334"
+  category: 'categories'
+  series: 'series'
+  tag: 'tags'
+
+
+languages:
+  en:
+    languageName: "chinese"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: 活动
+          url: archives
+          weight: 5
+        - name: 搜索
+          url: search/
+          weight: 10
+        - name: 标签
+          url: tags/
+          weight: 10
+    # custom params for each language should be under [langcode].parms - hugo v0.120.0
+    # 首页显示简介
+    # params:
+    #   languageAltTitle: French
+    #   profileMode:
+    #     enabled: true
+    #     title: PaperMod
+    #     imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+    #     imageTitle: ProfileMode image
+    #     # imageWidth: 120
+    #     # imageHeight: 120
+    #     subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+    #     buttons:
+    #       - name: Blog
+    #         url: posts
+    #       - name: Profile Mode
+    #         url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+# privacy:
+#   vimeo:
+#     disabled: false
+#     simple: true
+
+#   twitter:
+#     disabled: false
+#     enableDNT: true
+#     simple: true
+
+#   instagram:
+#     disabled: false
+#     simple: true
+
+#   youtube:
+#     disabled: false
+#     privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
+# editPost:
+#     URL: "https://github.com/<path_to_repo>/content"
+#     Text: "Suggest Changes" # edit text
+#     appendFilePath: true 

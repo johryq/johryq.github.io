@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on 2332334</title>
+    <link>//localhost:53605/tags/hugo/</link>
+    <description>Recent content in Hugo on 2332334</description>
+    <image>
+      <title>2332334</title>
+      <url>//localhost:53605/images/papermod-cover.png</url>
+      <link>//localhost:53605/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en</language>
+    <copyright>2332334</copyright>
+    <lastBuildDate>Sat, 12 Oct 2024 11:20:37 +0800</lastBuildDate>
+    <atom:link href="//localhost:53605/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>//localhost:53605/posts/blog/hugo/</link>
+      <pubDate>Sat, 12 Oct 2024 11:20:37 +0800</pubDate>
+      <guid>//localhost:53605/posts/blog/hugo/</guid>
+      <description>&lt;h1 id=&#34;hugohttpsgohugoio&#34;&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;go 写的静态网站生成器；类似的node hexo，vue vuePress等&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
