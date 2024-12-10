@@ -2,459 +2,459 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:53605/</loc>
+    <loc>/</loc>
     <lastmod>2024-12-05T18:38:07+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-12-05T18:38:07+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/categories/mix/</loc>
+    <loc>/categories/mix/</loc>
     <lastmod>2024-12-05T18:38:07+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/other/</loc>
+    <loc>/tags/other/</loc>
     <lastmod>2024-12-05T18:38:07+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-12-05T18:38:07+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-12-05T18:38:07+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/mix/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/</loc>
+    <loc>/posts/mix/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/</loc>
     <lastmod>2024-12-05T18:38:07+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-ufw/</loc>
+    <loc>/posts/system/linux-ufw/</loc>
     <lastmod>2024-12-04T11:08:11+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/categories/blog/</loc>
+    <loc>/categories/blog/</loc>
     <lastmod>2024-12-04T08:25:05+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/tstrap/</loc>
+    <loc>/tags/tstrap/</loc>
     <lastmod>2024-12-04T08:24:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/typecho-theme/</loc>
+    <loc>/tags/typecho-theme/</loc>
     <lastmod>2024-12-04T08:24:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/blog/typecho-change-theme2/</loc>
+    <loc>/posts/blog/typecho-change-theme2/</loc>
     <lastmod>2024-12-04T08:24:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/categories/python/</loc>
+    <loc>/categories/python/</loc>
     <lastmod>2024-12-04T08:51:45+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/scrapy/</loc>
+    <loc>/tags/scrapy/</loc>
     <lastmod>2024-12-04T08:46:23+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/python/scrapy/</loc>
+    <loc>/posts/code/python/scrapy/</loc>
     <lastmod>2024-12-03T16:40:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/dicd/</loc>
+    <loc>/tags/dicd/</loc>
     <lastmod>2024-12-03T10:06:32+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/k8s/</loc>
+    <loc>/tags/k8s/</loc>
     <lastmod>2024-12-04T10:13:39+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/kubernetes/</loc>
+    <loc>/tags/kubernetes/</loc>
     <lastmod>2024-12-03T10:06:32+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/kubernetes-new/</loc>
+    <loc>/posts/software/kubernetes-new/</loc>
     <lastmod>2024-12-03T10:06:32+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/categories/software/</loc>
+    <loc>/categories/software/</loc>
     <lastmod>2024-12-04T13:36:30+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/nest/</loc>
+    <loc>/posts/web/nest/</loc>
     <lastmod>2024-10-22T08:22:54+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/node_nvm/</loc>
+    <loc>/posts/web/node_nvm/</loc>
     <lastmod>2024-10-21T16:31:37+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/react/</loc>
+    <loc>/posts/web/react/</loc>
     <lastmod>2024-10-21T16:31:37+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/code/</loc>
+    <loc>/tags/code/</loc>
     <lastmod>2024-12-04T08:51:45+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/pyenv/</loc>
+    <loc>/tags/pyenv/</loc>
     <lastmod>2024-10-21T11:03:49+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/python/</loc>
+    <loc>/tags/python/</loc>
     <lastmod>2024-12-04T08:51:45+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</loc>
+    <loc>/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2024-10-21T11:03:49+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</loc>
+    <loc>/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</loc>
     <lastmod>2024-10-21T10:41:26+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/venv/</loc>
+    <loc>/tags/venv/</loc>
     <lastmod>2024-10-21T10:41:26+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2024-12-04T08:54:18+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2024-10-12T11:20:37+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/blog/hugo/</loc>
+    <loc>/posts/blog/hugo/</loc>
     <lastmod>2024-10-12T11:20:37+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/nft/</loc>
+    <loc>/tags/nft/</loc>
     <lastmod>2024-10-12T11:20:37+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web3/start_web3/</loc>
+    <loc>/posts/web3/start_web3/</loc>
     <lastmod>2024-10-12T11:20:37+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/web3/</loc>
+    <loc>/tags/web3/</loc>
     <lastmod>2024-12-03T16:24:28+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/categories/web3/</loc>
+    <loc>/categories/web3/</loc>
     <lastmod>2024-12-03T16:24:28+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/blog/hexo-next-theme/</loc>
+    <loc>/posts/blog/hexo-next-theme/</loc>
     <lastmod>2024-12-04T08:25:05+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/hexo-next/</loc>
+    <loc>/tags/hexo-next/</loc>
     <lastmod>2024-12-04T08:25:05+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/categories/code/</loc>
+    <loc>/categories/code/</loc>
     <lastmod>2024-12-04T08:54:42+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/%E4%BD%8D%E8%BF%90%E7%AE%97%E5%8F%8A%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/</loc>
+    <loc>/posts/system/%E4%BD%8D%E8%BF%90%E7%AE%97%E5%8F%8A%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/</loc>
     <lastmod>2024-12-04T08:53:47+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/%E4%BD%8D%E8%BF%90%E8%A1%8C/</loc>
+    <loc>/tags/%E4%BD%8D%E8%BF%90%E8%A1%8C/</loc>
     <lastmod>2024-12-04T08:53:47+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/acme.sh/</loc>
+    <loc>/tags/acme.sh/</loc>
     <lastmod>2024-12-03T16:34:13+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/blog/enable_https/</loc>
+    <loc>/posts/blog/enable_https/</loc>
     <lastmod>2024-12-03T16:34:13+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/https/</loc>
+    <loc>/tags/https/</loc>
     <lastmod>2024-12-03T16:34:13+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/ansible/</loc>
+    <loc>/tags/ansible/</loc>
     <lastmod>2024-12-04T09:07:38+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/ansible/</loc>
+    <loc>/posts/software/ansible/</loc>
     <lastmod>2024-12-04T09:07:38+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/apache/</loc>
+    <loc>/tags/apache/</loc>
     <lastmod>2024-12-04T09:08:23+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/apache/</loc>
+    <loc>/posts/software/apache/</loc>
     <lastmod>2024-12-04T09:08:23+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/centos/</loc>
+    <loc>/tags/centos/</loc>
     <lastmod>2024-12-04T09:09:04+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/centos_cockpit/</loc>
+    <loc>/posts/software/centos_cockpit/</loc>
     <lastmod>2024-12-04T09:09:04+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/cockpit/</loc>
+    <loc>/tags/cockpit/</loc>
     <lastmod>2024-12-04T09:09:04+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/disk-type/</loc>
+    <loc>/posts/system/disk-type/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/dism/</loc>
+    <loc>/tags/dism/</loc>
     <lastmod>2024-12-04T13:30:33+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/dism/</loc>
+    <loc>/posts/software/dism/</loc>
     <lastmod>2024-12-04T13:30:33+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</loc>
+    <loc>/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</loc>
     <lastmod>2024-12-04T13:31:22+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/docker/</loc>
+    <loc>/tags/docker/</loc>
     <lastmod>2024-12-04T10:13:39+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/docker/</loc>
+    <loc>/posts/software/docker/</loc>
     <lastmod>2024-12-04T09:12:16+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/express&#43;koa2/</loc>
+    <loc>/posts/web/express&#43;koa2/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/ext4%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D/</loc>
+    <loc>/posts/system/ext4%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D/</loc>
     <lastmod>2024-12-04T09:01:10+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/fail2ban/</loc>
+    <loc>/posts/software/fail2ban/</loc>
     <lastmod>2024-12-04T09:13:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/failed-start-journal-service/</loc>
+    <loc>/posts/system/failed-start-journal-service/</loc>
     <lastmod>2024-12-04T09:02:46+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/git/</loc>
+    <loc>/posts/software/git/</loc>
     <lastmod>2024-12-04T10:11:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/grpc/</loc>
+    <loc>/tags/grpc/</loc>
     <lastmod>2024-12-04T08:54:42+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/grpc/</loc>
+    <loc>/posts/code/grpc/</loc>
     <lastmod>2024-12-04T08:54:42+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/html_css/</loc>
+    <loc>/posts/web/html_css/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/hw-hcia/</loc>
+    <loc>/posts/system/hw-hcia/</loc>
     <lastmod>2024-12-03T16:59:04+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/hydra-trygetpassword/</loc>
+    <loc>/posts/software/hydra-trygetpassword/</loc>
     <lastmod>2024-12-04T10:12:16+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/jenkins/</loc>
+    <loc>/posts/software/jenkins/</loc>
     <lastmod>2024-12-04T10:12:49+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/js/</loc>
+    <loc>/posts/web/js/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/js-es6/</loc>
+    <loc>/posts/web/js-es6/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/js_modules/</loc>
+    <loc>/posts/web/js_modules/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/kubernetes/</loc>
+    <loc>/posts/software/kubernetes/</loc>
     <lastmod>2024-12-04T10:13:39+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-changeshowdata/</loc>
+    <loc>/posts/system/linux-changeshowdata/</loc>
     <lastmod>2024-12-04T11:08:39+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-cmd/</loc>
+    <loc>/posts/system/linux-cmd/</loc>
     <lastmod>2024-12-04T10:14:24+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-ctrl&#43;/</loc>
+    <loc>/posts/system/linux-ctrl&#43;/</loc>
     <lastmod>2024-12-04T11:06:09+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-diskmanage/</loc>
+    <loc>/posts/system/linux-diskmanage/</loc>
     <lastmod>2024-12-04T10:15:09+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-firewalled/</loc>
+    <loc>/posts/system/linux-firewalled/</loc>
     <lastmod>2024-12-04T11:06:42+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-iptables/</loc>
+    <loc>/posts/system/linux-iptables/</loc>
     <lastmod>2024-12-04T11:07:03+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-kernelupdate/</loc>
+    <loc>/posts/system/linux-kernelupdate/</loc>
     <lastmod>2024-12-04T10:57:23+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-lvm/</loc>
+    <loc>/posts/system/linux-lvm/</loc>
     <lastmod>2024-12-04T11:07:24+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-lvmrecoverdata/</loc>
+    <loc>/posts/system/linux-lvmrecoverdata/</loc>
     <lastmod>2024-12-04T11:10:15+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-path/</loc>
+    <loc>/posts/system/linux-path/</loc>
     <lastmod>2024-12-04T10:56:42+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-port/</loc>
+    <loc>/posts/system/linux-port/</loc>
     <lastmod>2024-12-04T10:15:41+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-pubkeylogin/</loc>
+    <loc>/posts/system/linux-pubkeylogin/</loc>
     <lastmod>2024-12-04T10:56:13+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-pxe-%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88%E5%AE%89%E8%A3%85/</loc>
+    <loc>/posts/system/linux-pxe-%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2024-12-04T11:16:18+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-raid/</loc>
+    <loc>/posts/system/linux-raid/</loc>
     <lastmod>2024-12-04T11:29:43+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-raid-lsi/</loc>
+    <loc>/posts/system/linux-raid-lsi/</loc>
     <lastmod>2024-12-04T11:30:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-rsync/</loc>
+    <loc>/posts/system/linux-rsync/</loc>
     <lastmod>2024-12-04T11:31:08+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-shell/</loc>
+    <loc>/posts/system/linux-shell/</loc>
     <lastmod>2024-12-04T13:23:01+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-ssh/</loc>
+    <loc>/posts/system/linux-ssh/</loc>
     <lastmod>2024-12-04T13:23:25+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-sudo/</loc>
+    <loc>/posts/system/linux-sudo/</loc>
     <lastmod>2024-12-04T11:07:45+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-upload/</loc>
+    <loc>/posts/system/linux-upload/</loc>
     <lastmod>2024-12-04T10:58:16+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C/</loc>
+    <loc>/posts/system/linux-%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C/</loc>
     <lastmod>2024-12-04T10:55:04+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/linux-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86/</loc>
+    <loc>/posts/system/linux-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2024-12-04T11:03:58+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2024-12-03T16:34:55+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/blog/markdown/</loc>
+    <loc>/posts/blog/markdown/</loc>
     <lastmod>2024-12-03T16:34:55+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/mongodb/</loc>
+    <loc>/posts/software/mongodb/</loc>
     <lastmod>2024-12-04T11:10:55+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/mysql/</loc>
+    <loc>/posts/software/mysql/</loc>
     <lastmod>2024-12-04T08:55:16+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/mysql2/</loc>
+    <loc>/posts/software/mysql2/</loc>
     <lastmod>2024-12-04T11:11:48+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/nginx/</loc>
+    <loc>/posts/software/nginx/</loc>
     <lastmod>2024-12-04T11:12:38+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/nginx-%E4%BC%98%E5%8C%96/</loc>
+    <loc>/posts/software/nginx-%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2024-12-04T11:13:51+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/nmap/</loc>
+    <loc>/posts/software/nmap/</loc>
     <lastmod>2024-12-04T11:14:28+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/node&#43;nvm/</loc>
+    <loc>/posts/web/node&#43;nvm/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/nvidia-error/</loc>
+    <loc>/posts/system/nvidia-error/</loc>
     <lastmod>2024-12-04T09:03:41+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/phcsa/</loc>
+    <loc>/posts/system/phcsa/</loc>
     <lastmod>2024-12-04T09:00:12+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/php/</loc>
+    <loc>/posts/software/php/</loc>
     <lastmod>2024-12-04T11:14:57+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/pip/</loc>
+    <loc>/tags/pip/</loc>
     <lastmod>2024-12-04T08:51:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/python/pip-change-path/</loc>
+    <loc>/posts/code/python/pip-change-path/</loc>
     <lastmod>2024-12-04T08:49:55+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/python/python-change-source/</loc>
+    <loc>/posts/code/python/python-change-source/</loc>
     <lastmod>2024-12-04T08:51:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/pythone/</loc>
+    <loc>/tags/pythone/</loc>
     <lastmod>2024-12-04T08:49:55+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/redis/</loc>
+    <loc>/posts/software/redis/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/ssh/</loc>
+    <loc>/tags/ssh/</loc>
     <lastmod>2024-12-04T09:13:00+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/tool/</loc>
+    <loc>/posts/software/tool/</loc>
     <lastmod>2024-12-04T13:36:30+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/typescript/</loc>
+    <loc>/posts/web/typescript/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/ubuntu-autoupdate/</loc>
+    <loc>/posts/system/ubuntu-autoupdate/</loc>
     <lastmod>2024-12-04T13:26:19+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/ubuntu-changesource/</loc>
+    <loc>/posts/system/ubuntu-changesource/</loc>
     <lastmod>2024-12-04T13:34:30+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/ubuntu-%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95/</loc>
+    <loc>/posts/system/ubuntu-%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95/</loc>
     <lastmod>2024-12-04T13:25:36+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/v2ray/</loc>
+    <loc>/posts/software/v2ray/</loc>
     <lastmod>2024-12-04T13:26:59+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/vim/</loc>
+    <loc>/posts/software/vim/</loc>
     <lastmod>2024-12-04T13:27:26+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/vm-centos7-%E6%97%A0%E6%B3%95%E8%81%94%E7%BD%91/</loc>
+    <loc>/posts/system/vm-centos7-%E6%97%A0%E6%B3%95%E8%81%94%E7%BD%91/</loc>
     <lastmod>2024-12-04T09:11:20+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</loc>
+    <loc>/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</loc>
     <lastmod>2024-12-04T13:28:22+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/eslint_prettier/</loc>
+    <loc>/posts/web/eslint_prettier/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/vscode-setting/</loc>
+    <loc>/posts/software/vscode-setting/</loc>
     <lastmod>2024-12-04T09:04:28+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/vscodeserver/</loc>
+    <loc>/posts/software/vscodeserver/</loc>
     <lastmod>2024-12-04T13:29:07+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/vue/</loc>
+    <loc>/posts/web/vue/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/vue3&#43;vite&#43;env/</loc>
+    <loc>/posts/web/vue3&#43;vite&#43;env/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/vue3&#43;vite&#43;sass/</loc>
+    <loc>/posts/web/vue3&#43;vite&#43;sass/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web/wechat/</loc>
+    <loc>/posts/web/wechat/</loc>
     <lastmod>2024-12-04T09:05:21+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/win10-iis-enable-dotnetf4.5/</loc>
+    <loc>/posts/system/win10-iis-enable-dotnetf4.5/</loc>
     <lastmod>2024-12-04T13:33:03+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/winterminel%E7%BE%8E%E5%8C%96/</loc>
+    <loc>/posts/system/winterminel%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2024-12-04T13:35:29+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/system/wsl/</loc>
+    <loc>/posts/system/wsl/</loc>
     <lastmod>2024-12-04T13:29:57+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/%E5%8F%8D%E7%BC%96%E8%AF%91/</loc>
+    <loc>/tags/%E5%8F%8D%E7%BC%96%E8%AF%91/</loc>
     <lastmod>2024-12-04T13:31:22+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</loc>
+    <loc>/tags/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</loc>
     <lastmod>2024-12-04T11:21:59+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</loc>
+    <loc>/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</loc>
     <lastmod>2024-12-04T11:21:59+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/django/</loc>
+    <loc>/tags/django/</loc>
     <lastmod>2024-12-04T08:51:45+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/python/django/</loc>
+    <loc>/posts/code/python/django/</loc>
     <lastmod>2024-12-03T16:37:53+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/python/django-uwsgi/</loc>
+    <loc>/posts/code/python/django-uwsgi/</loc>
     <lastmod>2024-12-04T08:51:45+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2024-12-03T16:31:32+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/xmrig/</loc>
+    <loc>/tags/xmrig/</loc>
     <lastmod>2024-12-03T16:26:37+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/blog/%E5%AD%90%E5%9F%9F%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE/</loc>
+    <loc>/posts/blog/%E5%AD%90%E5%9F%9F%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE/</loc>
     <lastmod>2024-12-03T16:31:32+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</loc>
+    <loc>/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</loc>
     <lastmod>2024-12-03T16:26:37+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/typecho/</loc>
+    <loc>/tags/typecho/</loc>
     <lastmod>2024-12-03T16:35:32+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/blog/typecho-first/</loc>
+    <loc>/posts/blog/typecho-first/</loc>
     <lastmod>2024-12-03T16:35:32+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/tags/xmr/</loc>
+    <loc>/tags/xmr/</loc>
     <lastmod>2024-12-03T16:24:28+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</loc>
+    <loc>/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</loc>
     <lastmod>2024-12-03T16:24:28+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/blog/typecho-change-theme/</loc>
+    <loc>/posts/blog/typecho-change-theme/</loc>
     <lastmod>2024-12-03T16:36:20+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/go/golang/</loc>
+    <loc>/posts/code/go/golang/</loc>
     <lastmod>2024-12-04T08:54:18+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/python/yanderify-try/</loc>
+    <loc>/posts/code/python/yanderify-try/</loc>
     <lastmod>2024-12-04T08:59:08+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/posts/code/python/scrapy-vscode-debug/</loc>
+    <loc>/posts/code/python/scrapy-vscode-debug/</loc>
     <lastmod>2024-12-04T08:46:23+08:00</lastmod>
   </url><url>
-    <loc>//localhost:53605/archives/</loc>
+    <loc>/archives/</loc>
   </url><url>
-    <loc>//localhost:53605/search/</loc>
+    <loc>/search/</loc>
   </url><url>
-    <loc>//localhost:53605/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>//localhost:53605/tag/</loc>
+    <loc>/tag/</loc>
   </url>
 </urlset>
