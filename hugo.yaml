@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "blog.2332334.xyz"
 title: "2332334"
 languageCode: zh-cn
 copyright: "© [2332334](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
@@ -237,3 +237,8 @@ services:
 #     URL: "https://github.com/<path_to_repo>/content"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true 
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+   
