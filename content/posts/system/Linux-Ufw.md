@@ -11,52 +11,57 @@ author: "2332334"
 
 ---
 <!--more-->
+# UFW
 
-# sudo
+debian 系列默认防火墙
 
-使普通用户执行命令拥有root权限
+## install
 
-## Linux user add sudo authority
-
-### 方法一:修改 `sudoers`
-
-1.未安装 `sudo` 需要登录 root 执行:
-
-```bash
-apt install sudo #ubuntu
-yum install sudo #centos
+``` bash
+sudo apt update 
+sudo apt install ufw
 ```
 
-2.设置( root 下)
+## setting
 
-```bash
-vi /etc/sudoers
+``` bash
+# 默认关闭全部外部链接端口
+ufw default deny
+
+# 拒绝传入，运行传出
+sudo ufw default allow outgoing
+sudo ufw default deny incoming
+
+
+# 服务启动状态
+sudo ufw status 
+
+# 新装运行通行端口
+sudo ufw allow 8080
+sudo ufw allow 8080/tcp
+
+# 删除端口
+sudo ufw delete allow 8080
+
+# 运行特定IP
+sudo ufw allow from 192.168.1.1
+
+# 开启服务
+ufw enable
+
 ```
 
-3.添加如下内容到配置文件
+查看端口使用情况
 
 ```bash
-用户名 ALL=(ALL) ALL
-用户名 ALL=(ALL) NOPASSWD: ALL  #执行sudo时不用输入密码
+# tcp端口
+netstat -ntpl
 
-# or 
-sudo usermod -aG sudo [name-of-user]
+# udp端口
+netstat -aupl
+
 ```
 
-最后强制写入退出
+## 更多详细内容参考
 
-### 方法二:`usermod`添加进sudo 组
-
-```bash
-usermod -aG sudo 用户名
-```
-
-## sudo相关命令
-
-```bash
-# 版本及相关信息
-sudo -V
-
-# 当前用不sudo权限
-sudo -l
-```
+[seafog - ubuntu ufw防火墙的基本使用](https://www.seafog.cn/archives/141720867)

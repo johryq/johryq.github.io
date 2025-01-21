@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Web3 on 2332334</title>
-    <link>//localhost:1313/categories/web3/</link>
+    <link>blog.2332334.xyz/categories/web3/</link>
     <description>Recent content in Web3 on 2332334</description>
     <image>
       <title>2332334</title>
-      <url>//localhost:1313/images/papermod-cover.png</url>
-      <link>//localhost:1313/images/papermod-cover.png</link>
+      <url>blog.2332334.xyz/images/papermod-cover.png</url>
+      <link>blog.2332334.xyz/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <copyright>2332334</copyright>
     <lastBuildDate>Tue, 03 Dec 2024 16:24:28 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/web3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="blog.2332334.xyz/categories/web3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>start_web3</title>
-      <link>//localhost:1313/posts/web3/start_web3/</link>
+      <link>blog.2332334.xyz/posts/web3/start_web3/</link>
       <pubDate>Wed, 09 Oct 2024 15:38:25 +0800</pubDate>
-      <guid>//localhost:1313/posts/web3/start_web3/</guid>
+      <guid>blog.2332334.xyz/posts/web3/start_web3/</guid>
       <description>&lt;h1 id=&#34;start-web3&#34;&gt;start web3&lt;/h1&gt;
 &lt;p&gt;金融属性，分类账本-主账本记录枝干账本总体金额，枝干账本记录自身明细数据&lt;/p&gt;
 &lt;p&gt;区块链即hase，密钥作为用户的公开分布式账本，因其每个hase对应不同区块，并链接成一条去中心化默克尔hase树；&lt;br&gt;
@@ -53,9 +53,9 @@
     </item>
     <item>
       <title>门罗初试</title>
-      <link>//localhost:1313/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</link>
+      <link>blog.2332334.xyz/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:28 +0800</pubDate>
-      <guid>//localhost:1313/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</guid>
+      <guid>blog.2332334.xyz/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,7 +1,7 @@
 ---
 title: "Enable_https"
 date: 2022-01-10T00:10:13+08:00
-lastmod: 2024-12-03T16:34:13+08:00
+lastmod: 2024-01-13T11:13:13+08:00
 draft: false
 keywords: []
 description: ""
@@ -54,47 +54,55 @@ alias acme.sh=~/.acme.sh/acme.sh
 - [腾讯云 DNSpod](https://console.dnspod.cn/account/token)
   - 密钥 ID
   - 密钥 Token
+- [cloudflare](https://dash.cloudflare.com/profile/api-tokens)
 
 ```bash
-
+# 可以通过配置文件新增对应DNS key，或者通过环境变量添加
 vi ~/.acme.sh/account.conf
 
 # 阿里云添加
-
 export Ali_Key="xxx"
-
 export Ali_Secret="xxxxxx"
 
 # 腾讯云添加
-
 export DP_Id="xxx"
-
 export DP_Key="xxxxxxx"
 
+# cloudflare
+export CF_Token="xx"
 ```
 
 3.生成证书
 
 ```bash
+# DNS 自动验证
+# 腾讯dnspod
+acme.sh --issue --dns dns_dp -d "*.mydomain.com"
+# 阿里云
+acme.sh --issue --dns dns_ali -d "*.mydomain.com"
+# cloudflare
+acme.sh --issue --dns dns_cf -d '*.mydomain.com'
+
+# 手动DNS验证，需要自行配置DNS txt验证，并且到期需手动更新
+acme.sh --issue -d example.com --dns \
+ --yes-I-know-dns-manual-mode-enough-go-ahead-please
+
+acme.sh --renew -d example.com \
+  --yes-I-know-dns-manual-mode-enough-go-ahead-please
+
 # nginx
 acme.sh --issue  -d mydomain.com   --nginx
 
 # 无web服务器验证,保证本地80端口可用
 acme.sh  --issue -d mydomain.com   --standalone
-
-# 腾讯dnspod
-acme.sh --issue --dns dns_dp -d *.mydomain.com
-
-# 阿里云
-acme.sh --issue --dns dns_ali -d *.mydomain.com
 ```
 
 4.复制证书
 
 ```bash
 sudo acme.sh --install-cert -d "*.mydomain.com" \
---key-file       /usr/local/nginx/cert/*.mydomain.com.key  \
---fullchain-file /usr/local/nginx/cert/*.mydomain.com.cer \
+--key-file       /etc/nginx/cert/*.mydomain.com.key  \
+--fullchain-file /etc/nginx/cert/*.mydomain.com.cer \
 --reloadcmd     "service nginx force-reload"
 ```
 

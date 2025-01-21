@@ -167,7 +167,7 @@ docker rmi
 | -d | 后台运行 |
 | -P | 将容器内部使用的网络端口映射到我们使用的主机上 |
 | -p | 将端口映射到本地制定端口 |
-| v | 主机路径:容器内路径 ｜
+| v | 主机路径:容器内路径 |
 | --name |  容器名 |
 
 ``` bash
@@ -208,7 +208,7 @@ docker stop ID/Name
 docker attach ID/Name 
 #进入后台运行的容器但是退出会使容器停止
 
-docker exec ID/Name 
+docker exec -it ID/Name  /bin/bash
 # 这个命令进入后台容器，退出容器终端时，不会导致容器的停止
 ```
 

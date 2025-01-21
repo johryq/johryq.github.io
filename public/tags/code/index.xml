@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Code on 2332334</title>
-    <link>//localhost:1313/tags/code/</link>
+    <link>blog.2332334.xyz/tags/code/</link>
     <description>Recent content in Code on 2332334</description>
     <image>
       <title>2332334</title>
-      <url>//localhost:1313/images/papermod-cover.png</url>
-      <link>//localhost:1313/images/papermod-cover.png</link>
+      <url>blog.2332334.xyz/images/papermod-cover.png</url>
+      <link>blog.2332334.xyz/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <copyright>2332334</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 08:51:45 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="blog.2332334.xyz/tags/code/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python_版本管理</title>
-      <link>//localhost:1313/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</link>
+      <link>blog.2332334.xyz/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</link>
       <pubDate>Mon, 21 Oct 2024 11:03:49 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</guid>
       <description></description>
     </item>
     <item>
       <title>Python Change Source</title>
-      <link>//localhost:1313/posts/code/python/python-change-source/</link>
+      <link>blog.2332334.xyz/posts/code/python/python-change-source/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/python-change-source/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/python-change-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Django</title>
-      <link>//localhost:1313/posts/code/python/django/</link>
+      <link>blog.2332334.xyz/posts/code/python/django/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:45 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/django/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/django/</guid>
       <description></description>
     </item>
     <item>
       <title>Django Uwsgi</title>
-      <link>//localhost:1313/posts/code/python/django-uwsgi/</link>
+      <link>blog.2332334.xyz/posts/code/python/django-uwsgi/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:45 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/django-uwsgi/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/django-uwsgi/</guid>
       <description></description>
     </item>
     <item>
       <title>Scrapy Vscode Debug</title>
-      <link>//localhost:1313/posts/code/python/scrapy-vscode-debug/</link>
+      <link>blog.2332334.xyz/posts/code/python/scrapy-vscode-debug/</link>
       <pubDate>Tue, 29 Jun 2021 08:46:23 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/scrapy-vscode-debug/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/scrapy-vscode-debug/</guid>
       <description></description>
     </item>
   </channel>

@@ -12,7 +12,7 @@ author: "2332334"
 ---
 <!--more-->
 
-# Mysql
+# Mysql安装和初始化
 
 > 更对内容还请参考[官方文档][2]
 
@@ -30,9 +30,9 @@ mysqld --initialize-insecure --user=mysql --console
 
 > 启动mysql服务后可使用`mysql_secure_installation`进行一些安全配置
 
-### 一些问题
+## 初始化
 
-#### 1. 修改密码
+### 1. 修改密码
 
 ``` bash
 vi /etc/my.cnf.d/mysql-server.cnf

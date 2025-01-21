@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>XMRig on 2332334</title>
-    <link>//localhost:1313/tags/xmrig/</link>
+    <link>blog.2332334.xyz/tags/xmrig/</link>
     <description>Recent content in XMRig on 2332334</description>
     <image>
       <title>2332334</title>
-      <url>//localhost:1313/images/papermod-cover.png</url>
-      <link>//localhost:1313/images/papermod-cover.png</link>
+      <url>blog.2332334.xyz/images/papermod-cover.png</url>
+      <link>blog.2332334.xyz/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <copyright>2332334</copyright>
     <lastBuildDate>Tue, 03 Dec 2024 16:26:37 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/xmrig/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="blog.2332334.xyz/tags/xmrig/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>门罗挖矿 XMRig自编译无捐献版本</title>
-      <link>//localhost:1313/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</link>
+      <link>blog.2332334.xyz/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:37 +0800</pubDate>
-      <guid>//localhost:1313/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</guid>
+      <guid>blog.2332334.xyz/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</guid>
       <description></description>
     </item>
   </channel>

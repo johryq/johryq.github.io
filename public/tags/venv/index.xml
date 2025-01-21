@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Venv on 2332334</title>
-    <link>//localhost:1313/tags/venv/</link>
+    <link>blog.2332334.xyz/tags/venv/</link>
     <description>Recent content in Venv on 2332334</description>
     <image>
       <title>2332334</title>
-      <url>//localhost:1313/images/papermod-cover.png</url>
-      <link>//localhost:1313/images/papermod-cover.png</link>
+      <url>blog.2332334.xyz/images/papermod-cover.png</url>
+      <link>blog.2332334.xyz/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <copyright>2332334</copyright>
     <lastBuildDate>Mon, 21 Oct 2024 10:41:26 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/venv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="blog.2332334.xyz/tags/venv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python_虚拟环境</title>
-      <link>//localhost:1313/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</link>
+      <link>blog.2332334.xyz/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</link>
       <pubDate>Mon, 21 Oct 2024 10:41:26 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</guid>
       <description></description>
     </item>
   </channel>
