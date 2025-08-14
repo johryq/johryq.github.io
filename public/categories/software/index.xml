@@ -2,195 +2,194 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Software on 2332334</title>
-    <link>blog.2332334.xyz/categories/software/</link>
+    <link>//localhost:1313/categories/software/</link>
     <description>Recent content in Software on 2332334</description>
     <image>
       <title>2332334</title>
-      <url>blog.2332334.xyz/images/papermod-cover.png</url>
-      <link>blog.2332334.xyz/images/papermod-cover.png</link>
+      <url>//localhost:1313/images/papermod-cover.png</url>
+      <link>//localhost:1313/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <copyright>2332334</copyright>
     <lastBuildDate>Fri, 17 Jan 2025 08:55:16 +0800</lastBuildDate>
-    <atom:link href="blog.2332334.xyz/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubernetes</title>
-      <link>blog.2332334.xyz/posts/software/kubernetes-new/</link>
+      <link>//localhost:1313/posts/software/kubernetes-new/</link>
       <pubDate>Tue, 03 Dec 2024 10:06:32 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/kubernetes-new/</guid>
+      <guid>//localhost:1313/posts/software/kubernetes-new/</guid>
       <description>&lt;h1 id=&#34;kubernetes&#34;&gt;kubernetes&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;基于minikuber 练习&lt;br&gt;
-跟随教程  &lt;a href=&#34;https://github.com/guangzhengli/k8s-tutorials?tab=readme-ov-file#kubernetes-tutorials&#34;&gt;https://github.com/guangzhengli/k8s-tutorials?tab=readme-ov-file#kubernetes-tutorials&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+跟随教程  &lt;a href=&#34;https://github.com/guangzhengli/k8s-tutorials?tab=readme-ov-file#kubernetes-tutorials&#34;&gt;https://github.com/guangzhengli/k8s-tutorials?tab=readme-ov-file#kubernetes-tutorials&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Ansible</title>
-      <link>blog.2332334.xyz/posts/software/ansible/</link>
+      <link>//localhost:1313/posts/software/ansible/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/ansible/</guid>
+      <guid>//localhost:1313/posts/software/ansible/</guid>
       <description></description>
     </item>
     <item>
       <title>Apache</title>
-      <link>blog.2332334.xyz/posts/software/apache/</link>
+      <link>//localhost:1313/posts/software/apache/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/apache/</guid>
+      <guid>//localhost:1313/posts/software/apache/</guid>
       <description></description>
     </item>
     <item>
       <title>Centos_cockpit</title>
-      <link>blog.2332334.xyz/posts/software/centos_cockpit/</link>
+      <link>//localhost:1313/posts/software/centos_cockpit/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/centos_cockpit/</guid>
+      <guid>//localhost:1313/posts/software/centos_cockpit/</guid>
       <description></description>
     </item>
     <item>
       <title>Dism</title>
-      <link>blog.2332334.xyz/posts/software/dism/</link>
+      <link>//localhost:1313/posts/software/dism/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/dism/</guid>
+      <guid>//localhost:1313/posts/software/dism/</guid>
       <description></description>
     </item>
     <item>
       <title>DLL反编译</title>
-      <link>blog.2332334.xyz/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</link>
+      <link>//localhost:1313/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</guid>
+      <guid>//localhost:1313/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>blog.2332334.xyz/posts/software/docker/</link>
+      <link>//localhost:1313/posts/software/docker/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/docker/</guid>
+      <guid>//localhost:1313/posts/software/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Fail2ban</title>
-      <link>blog.2332334.xyz/posts/software/fail2ban/</link>
+      <link>//localhost:1313/posts/software/fail2ban/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/fail2ban/</guid>
+      <guid>//localhost:1313/posts/software/fail2ban/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>blog.2332334.xyz/posts/software/git/</link>
+      <link>//localhost:1313/posts/software/git/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/git/</guid>
+      <guid>//localhost:1313/posts/software/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Hydra TryGetPassword</title>
-      <link>blog.2332334.xyz/posts/software/hydra-trygetpassword/</link>
+      <link>//localhost:1313/posts/software/hydra-trygetpassword/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/hydra-trygetpassword/</guid>
+      <guid>//localhost:1313/posts/software/hydra-trygetpassword/</guid>
       <description></description>
     </item>
     <item>
       <title>Jenkins</title>
-      <link>blog.2332334.xyz/posts/software/jenkins/</link>
+      <link>//localhost:1313/posts/software/jenkins/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/jenkins/</guid>
+      <guid>//localhost:1313/posts/software/jenkins/</guid>
       <description></description>
     </item>
     <item>
       <title>Kubernetes</title>
-      <link>blog.2332334.xyz/posts/software/kubernetes/</link>
+      <link>//localhost:1313/posts/software/kubernetes/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/kubernetes/</guid>
+      <guid>//localhost:1313/posts/software/kubernetes/</guid>
       <description></description>
     </item>
     <item>
       <title>Mongodb</title>
-      <link>blog.2332334.xyz/posts/software/mongodb/</link>
+      <link>//localhost:1313/posts/software/mongodb/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/mongodb/</guid>
+      <guid>//localhost:1313/posts/software/mongodb/</guid>
       <description></description>
     </item>
     <item>
       <title>Mysql2</title>
-      <link>blog.2332334.xyz/posts/software/mysql-%E5%AE%89%E8%A3%85%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96/</link>
+      <link>//localhost:1313/posts/software/mysql-%E5%AE%89%E8%A3%85%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/mysql-%E5%AE%89%E8%A3%85%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96/</guid>
+      <guid>//localhost:1313/posts/software/mysql-%E5%AE%89%E8%A3%85%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96/</guid>
       <description></description>
     </item>
     <item>
       <title>Nginx</title>
-      <link>blog.2332334.xyz/posts/software/nginx/</link>
+      <link>//localhost:1313/posts/software/nginx/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/nginx/</guid>
+      <guid>//localhost:1313/posts/software/nginx/</guid>
       <description></description>
     </item>
     <item>
       <title>Nginx 优化</title>
-      <link>blog.2332334.xyz/posts/software/nginx-%E4%BC%98%E5%8C%96/</link>
+      <link>//localhost:1313/posts/software/nginx-%E4%BC%98%E5%8C%96/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/nginx-%E4%BC%98%E5%8C%96/</guid>
+      <guid>//localhost:1313/posts/software/nginx-%E4%BC%98%E5%8C%96/</guid>
       <description></description>
     </item>
     <item>
       <title>Nmap</title>
-      <link>blog.2332334.xyz/posts/software/nmap/</link>
+      <link>//localhost:1313/posts/software/nmap/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/nmap/</guid>
+      <guid>//localhost:1313/posts/software/nmap/</guid>
       <description></description>
     </item>
     <item>
       <title>PHP</title>
-      <link>blog.2332334.xyz/posts/software/php/</link>
+      <link>//localhost:1313/posts/software/php/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/php/</guid>
+      <guid>//localhost:1313/posts/software/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Redis</title>
-      <link>blog.2332334.xyz/posts/software/redis/</link>
+      <link>//localhost:1313/posts/software/redis/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/redis/</guid>
+      <guid>//localhost:1313/posts/software/redis/</guid>
       <description></description>
     </item>
     <item>
       <title>Tool</title>
-      <link>blog.2332334.xyz/posts/software/tool/</link>
+      <link>//localhost:1313/posts/software/tool/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/tool/</guid>
+      <guid>//localhost:1313/posts/software/tool/</guid>
       <description></description>
     </item>
     <item>
       <title>V2ray</title>
-      <link>blog.2332334.xyz/posts/software/v2ray/</link>
+      <link>//localhost:1313/posts/software/v2ray/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/v2ray/</guid>
+      <guid>//localhost:1313/posts/software/v2ray/</guid>
       <description></description>
     </item>
     <item>
       <title>Vim</title>
-      <link>blog.2332334.xyz/posts/software/vim/</link>
+      <link>//localhost:1313/posts/software/vim/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/vim/</guid>
+      <guid>//localhost:1313/posts/software/vim/</guid>
       <description></description>
     </item>
     <item>
       <title>VM虚拟机装黑苹果</title>
-      <link>blog.2332334.xyz/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</link>
+      <link>//localhost:1313/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</guid>
+      <guid>//localhost:1313/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</guid>
       <description></description>
     </item>
     <item>
       <title>青龙面板</title>
-      <link>blog.2332334.xyz/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</link>
+      <link>//localhost:1313/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</guid>
+      <guid>//localhost:1313/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</guid>
       <description></description>
     </item>
     <item>
       <title>Mysql</title>
-      <link>blog.2332334.xyz/posts/software/mysql-%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</link>
+      <link>//localhost:1313/posts/software/mysql-%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</link>
       <pubDate>Sat, 19 Jun 2021 19:58:55 +0800</pubDate>
-      <guid>blog.2332334.xyz/posts/software/mysql-%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</guid>
+      <guid>//localhost:1313/posts/software/mysql-%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</guid>
       <description></description>
     </item>
   </channel>

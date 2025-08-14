@@ -89,7 +89,7 @@ wg-quick down wg0
 
 > 链接上后，可通过 `wg` 查看客户端是否链接，也可通过 `ping` 对应服务器局域网IP检查
 
-## 参考链接
+## 3.参考链接
 
 + [WireGuard官网](https://www.wireguard.com/quickstart/)
 + [chatGPT](https://chatgpt.com/)

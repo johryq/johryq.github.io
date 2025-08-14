@@ -4,7 +4,7 @@ languageCode: zh-cn
 copyright: "© [2332334](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 theme: ["PaperMod"]
 license: MIT
-paginate: 5
+# paginate: 5
 
 enableInlineShortcodes: true
 enableEmoji: true
@@ -231,7 +231,7 @@ markup:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
 # editPost:
 #     URL: "https://github.com/<path_to_repo>/content"
