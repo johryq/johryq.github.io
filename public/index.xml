@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>2332334</title>
-    <link>//localhost:1313/</link>
+    <link>blog.2332334.xyz/</link>
     <description>Recent content on 2332334</description>
     <image>
       <title>2332334</title>
-      <url>//localhost:1313/images/papermod-cover.png</url>
-      <link>//localhost:1313/images/papermod-cover.png</link>
+      <url>blog.2332334.xyz/images/papermod-cover.png</url>
+      <link>blog.2332334.xyz/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <copyright>2332334</copyright>
     <lastBuildDate>Thu, 14 Aug 2025 13:05:58 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="blog.2332334.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wireguard</title>
-      <link>//localhost:1313/posts/software/wireguard/</link>
+      <link>blog.2332334.xyz/posts/software/wireguard/</link>
       <pubDate>Thu, 14 Aug 2025 13:05:58 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/wireguard/</guid>
+      <guid>blog.2332334.xyz/posts/software/wireguard/</guid>
       <description>&lt;h1 id=&#34;wireguard&#34;&gt;WireGuard&lt;/h1&gt;
 &lt;p&gt;简单高性能通用VPN&lt;/p&gt;</description>
     </item>
     <item>
       <title>Android</title>
-      <link>//localhost:1313/posts/code/android/</link>
+      <link>blog.2332334.xyz/posts/code/android/</link>
       <pubDate>Thu, 13 Mar 2025 14:51:39 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/android/</guid>
+      <guid>blog.2332334.xyz/posts/code/android/</guid>
       <description></description>
     </item>
     <item>
       <title>意识形态</title>
-      <link>//localhost:1313/posts/mix/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/</link>
+      <link>blog.2332334.xyz/posts/mix/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/</link>
       <pubDate>Thu, 05 Dec 2024 18:38:07 +0800</pubDate>
-      <guid>//localhost:1313/posts/mix/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/</guid>
+      <guid>blog.2332334.xyz/posts/mix/%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Ufw</title>
-      <link>//localhost:1313/posts/system/linux-ufw/</link>
+      <link>blog.2332334.xyz/posts/system/linux-ufw/</link>
       <pubDate>Wed, 04 Dec 2024 11:08:11 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-ufw/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-ufw/</guid>
       <description></description>
     </item>
     <item>
       <title>typecho-change-theme2</title>
-      <link>//localhost:1313/posts/blog/typecho-change-theme2/</link>
+      <link>blog.2332334.xyz/posts/blog/typecho-change-theme2/</link>
       <pubDate>Wed, 04 Dec 2024 08:24:21 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog/typecho-change-theme2/</guid>
+      <guid>blog.2332334.xyz/posts/blog/typecho-change-theme2/</guid>
       <description></description>
     </item>
     <item>
       <title>Scrapy</title>
-      <link>//localhost:1313/posts/code/python/scrapy/</link>
+      <link>blog.2332334.xyz/posts/code/python/scrapy/</link>
       <pubDate>Tue, 03 Dec 2024 16:40:21 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/scrapy/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/scrapy/</guid>
       <description></description>
     </item>
     <item>
       <title>Kubernetes</title>
-      <link>//localhost:1313/posts/software/kubernetes-new/</link>
+      <link>blog.2332334.xyz/posts/software/kubernetes-new/</link>
       <pubDate>Tue, 03 Dec 2024 10:06:32 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/kubernetes-new/</guid>
+      <guid>blog.2332334.xyz/posts/software/kubernetes-new/</guid>
       <description>&lt;h1 id=&#34;kubernetes&#34;&gt;kubernetes&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;基于minikuber 练习&lt;br&gt;
@@ -69,53 +69,53 @@
     </item>
     <item>
       <title>Nest</title>
-      <link>//localhost:1313/posts/web/nest/</link>
+      <link>blog.2332334.xyz/posts/web/nest/</link>
       <pubDate>Tue, 22 Oct 2024 08:22:54 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/nest/</guid>
+      <guid>blog.2332334.xyz/posts/web/nest/</guid>
       <description></description>
     </item>
     <item>
       <title>Node_nvm</title>
-      <link>//localhost:1313/posts/web/node_nvm/</link>
+      <link>blog.2332334.xyz/posts/web/node_nvm/</link>
       <pubDate>Mon, 21 Oct 2024 16:31:37 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/node_nvm/</guid>
+      <guid>blog.2332334.xyz/posts/web/node_nvm/</guid>
       <description></description>
     </item>
     <item>
       <title>react</title>
-      <link>//localhost:1313/posts/web/react/</link>
+      <link>blog.2332334.xyz/posts/web/react/</link>
       <pubDate>Mon, 21 Oct 2024 16:31:37 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/react/</guid>
+      <guid>blog.2332334.xyz/posts/web/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Python_版本管理</title>
-      <link>//localhost:1313/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</link>
+      <link>blog.2332334.xyz/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</link>
       <pubDate>Mon, 21 Oct 2024 11:03:49 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/python-pyenv-%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/</guid>
       <description></description>
     </item>
     <item>
       <title>Python_虚拟环境</title>
-      <link>//localhost:1313/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</link>
+      <link>blog.2332334.xyz/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</link>
       <pubDate>Mon, 21 Oct 2024 10:41:26 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/python-%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>//localhost:1313/posts/blog/hugo/</link>
+      <link>blog.2332334.xyz/posts/blog/hugo/</link>
       <pubDate>Sat, 12 Oct 2024 11:20:37 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog/hugo/</guid>
+      <guid>blog.2332334.xyz/posts/blog/hugo/</guid>
       <description>&lt;h1 id=&#34;hugo&#34;&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;go 写的静态网站生成器；类似的node hexo，vue vuePress等&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>start_web3</title>
-      <link>//localhost:1313/posts/web3/start_web3/</link>
+      <link>blog.2332334.xyz/posts/web3/start_web3/</link>
       <pubDate>Wed, 09 Oct 2024 15:38:25 +0800</pubDate>
-      <guid>//localhost:1313/posts/web3/start_web3/</guid>
+      <guid>blog.2332334.xyz/posts/web3/start_web3/</guid>
       <description>&lt;h1 id=&#34;start-web3&#34;&gt;start web3&lt;/h1&gt;
 &lt;p&gt;金融属性，分类账本-主账本记录枝干账本总体金额，枝干账本记录自身明细数据&lt;/p&gt;
 &lt;p&gt;区块链即hase，密钥作为用户的公开分布式账本，因其每个hase对应不同区块，并链接成一条去中心化默克尔hase树；&lt;br&gt;
@@ -149,639 +149,639 @@
     </item>
     <item>
       <title>Hexo Next Theme</title>
-      <link>//localhost:1313/posts/blog/hexo-next-theme/</link>
+      <link>blog.2332334.xyz/posts/blog/hexo-next-theme/</link>
       <pubDate>Tue, 22 Aug 2023 10:34:05 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog/hexo-next-theme/</guid>
+      <guid>blog.2332334.xyz/posts/blog/hexo-next-theme/</guid>
       <description></description>
     </item>
     <item>
       <title>位运算及进制转换</title>
-      <link>//localhost:1313/posts/system/%E4%BD%8D%E8%BF%90%E7%AE%97%E5%8F%8A%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/</link>
+      <link>blog.2332334.xyz/posts/system/%E4%BD%8D%E8%BF%90%E7%AE%97%E5%8F%8A%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/</link>
       <pubDate>Thu, 16 Feb 2023 17:03:47 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/%E4%BD%8D%E8%BF%90%E7%AE%97%E5%8F%8A%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/</guid>
+      <guid>blog.2332334.xyz/posts/system/%E4%BD%8D%E8%BF%90%E7%AE%97%E5%8F%8A%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/</guid>
       <description></description>
     </item>
     <item>
       <title>Enable_https</title>
-      <link>//localhost:1313/posts/blog/enable_https/</link>
+      <link>blog.2332334.xyz/posts/blog/enable_https/</link>
       <pubDate>Mon, 10 Jan 2022 00:10:13 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog/enable_https/</guid>
+      <guid>blog.2332334.xyz/posts/blog/enable_https/</guid>
       <description>&lt;h1 id=&#34;acmesh&#34;&gt;acme.sh&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Ansible</title>
-      <link>//localhost:1313/posts/software/ansible/</link>
+      <link>blog.2332334.xyz/posts/software/ansible/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/ansible/</guid>
+      <guid>blog.2332334.xyz/posts/software/ansible/</guid>
       <description></description>
     </item>
     <item>
       <title>Apache</title>
-      <link>//localhost:1313/posts/software/apache/</link>
+      <link>blog.2332334.xyz/posts/software/apache/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/apache/</guid>
+      <guid>blog.2332334.xyz/posts/software/apache/</guid>
       <description></description>
     </item>
     <item>
       <title>Centos_cockpit</title>
-      <link>//localhost:1313/posts/software/centos_cockpit/</link>
+      <link>blog.2332334.xyz/posts/software/centos_cockpit/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/centos_cockpit/</guid>
+      <guid>blog.2332334.xyz/posts/software/centos_cockpit/</guid>
       <description></description>
     </item>
     <item>
       <title>Disk Type</title>
-      <link>//localhost:1313/posts/system/disk-type/</link>
+      <link>blog.2332334.xyz/posts/system/disk-type/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/disk-type/</guid>
+      <guid>blog.2332334.xyz/posts/system/disk-type/</guid>
       <description></description>
     </item>
     <item>
       <title>Dism</title>
-      <link>//localhost:1313/posts/software/dism/</link>
+      <link>blog.2332334.xyz/posts/software/dism/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/dism/</guid>
+      <guid>blog.2332334.xyz/posts/software/dism/</guid>
       <description></description>
     </item>
     <item>
       <title>DLL反编译</title>
-      <link>//localhost:1313/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</link>
+      <link>blog.2332334.xyz/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</guid>
+      <guid>blog.2332334.xyz/posts/software/dll%E5%8F%8D%E7%BC%96%E8%AF%91/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>//localhost:1313/posts/software/docker/</link>
+      <link>blog.2332334.xyz/posts/software/docker/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/docker/</guid>
+      <guid>blog.2332334.xyz/posts/software/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Express&#43;Koa2</title>
-      <link>//localhost:1313/posts/web/express&#43;koa2/</link>
+      <link>blog.2332334.xyz/posts/web/express&#43;koa2/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/express&#43;koa2/</guid>
+      <guid>blog.2332334.xyz/posts/web/express&#43;koa2/</guid>
       <description></description>
     </item>
     <item>
       <title>Ext4文件修复</title>
-      <link>//localhost:1313/posts/system/ext4%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D/</link>
+      <link>blog.2332334.xyz/posts/system/ext4%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/ext4%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D/</guid>
+      <guid>blog.2332334.xyz/posts/system/ext4%E6%96%87%E4%BB%B6%E4%BF%AE%E5%A4%8D/</guid>
       <description></description>
     </item>
     <item>
       <title>Fail2ban</title>
-      <link>//localhost:1313/posts/software/fail2ban/</link>
+      <link>blog.2332334.xyz/posts/software/fail2ban/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/fail2ban/</guid>
+      <guid>blog.2332334.xyz/posts/software/fail2ban/</guid>
       <description></description>
     </item>
     <item>
       <title>Failed Start Journal Service</title>
-      <link>//localhost:1313/posts/system/failed-start-journal-service/</link>
+      <link>blog.2332334.xyz/posts/system/failed-start-journal-service/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/failed-start-journal-service/</guid>
+      <guid>blog.2332334.xyz/posts/system/failed-start-journal-service/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>//localhost:1313/posts/software/git/</link>
+      <link>blog.2332334.xyz/posts/software/git/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/git/</guid>
+      <guid>blog.2332334.xyz/posts/software/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Grpc</title>
-      <link>//localhost:1313/posts/code/grpc/</link>
+      <link>blog.2332334.xyz/posts/code/grpc/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/grpc/</guid>
+      <guid>blog.2332334.xyz/posts/code/grpc/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML &amp;&amp; CSS</title>
-      <link>//localhost:1313/posts/web/html_css/</link>
+      <link>blog.2332334.xyz/posts/web/html_css/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/html_css/</guid>
+      <guid>blog.2332334.xyz/posts/web/html_css/</guid>
       <description></description>
     </item>
     <item>
       <title>Hw Hcia</title>
-      <link>//localhost:1313/posts/system/hw-hcia/</link>
+      <link>blog.2332334.xyz/posts/system/hw-hcia/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/hw-hcia/</guid>
+      <guid>blog.2332334.xyz/posts/system/hw-hcia/</guid>
       <description></description>
     </item>
     <item>
       <title>Hydra TryGetPassword</title>
-      <link>//localhost:1313/posts/software/hydra-trygetpassword/</link>
+      <link>blog.2332334.xyz/posts/software/hydra-trygetpassword/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/hydra-trygetpassword/</guid>
+      <guid>blog.2332334.xyz/posts/software/hydra-trygetpassword/</guid>
       <description></description>
     </item>
     <item>
       <title>Jenkins</title>
-      <link>//localhost:1313/posts/software/jenkins/</link>
+      <link>blog.2332334.xyz/posts/software/jenkins/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/jenkins/</guid>
+      <guid>blog.2332334.xyz/posts/software/jenkins/</guid>
       <description></description>
     </item>
     <item>
       <title>JS</title>
-      <link>//localhost:1313/posts/web/js/</link>
+      <link>blog.2332334.xyz/posts/web/js/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/js/</guid>
+      <guid>blog.2332334.xyz/posts/web/js/</guid>
       <description></description>
     </item>
     <item>
       <title>JS ES5</title>
-      <link>//localhost:1313/posts/web/js-es6/</link>
+      <link>blog.2332334.xyz/posts/web/js-es6/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/js-es6/</guid>
+      <guid>blog.2332334.xyz/posts/web/js-es6/</guid>
       <description></description>
     </item>
     <item>
       <title>JS Modules</title>
-      <link>//localhost:1313/posts/web/js_modules/</link>
+      <link>blog.2332334.xyz/posts/web/js_modules/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/js_modules/</guid>
+      <guid>blog.2332334.xyz/posts/web/js_modules/</guid>
       <description></description>
     </item>
     <item>
       <title>Kubernetes</title>
-      <link>//localhost:1313/posts/software/kubernetes/</link>
+      <link>blog.2332334.xyz/posts/software/kubernetes/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/kubernetes/</guid>
+      <guid>blog.2332334.xyz/posts/software/kubernetes/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux ChangeShowData</title>
-      <link>//localhost:1313/posts/system/linux-changeshowdata/</link>
+      <link>blog.2332334.xyz/posts/system/linux-changeshowdata/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-changeshowdata/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-changeshowdata/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Cmd</title>
-      <link>//localhost:1313/posts/system/linux-cmd/</link>
+      <link>blog.2332334.xyz/posts/system/linux-cmd/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-cmd/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-cmd/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Ctrl&#43;</title>
-      <link>//localhost:1313/posts/system/linux-ctrl&#43;/</link>
+      <link>blog.2332334.xyz/posts/system/linux-ctrl&#43;/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-ctrl&#43;/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-ctrl&#43;/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux DiskManage</title>
-      <link>//localhost:1313/posts/system/linux-diskmanage/</link>
+      <link>blog.2332334.xyz/posts/system/linux-diskmanage/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-diskmanage/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-diskmanage/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Firewalled</title>
-      <link>//localhost:1313/posts/system/linux-firewalled/</link>
+      <link>blog.2332334.xyz/posts/system/linux-firewalled/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-firewalled/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-firewalled/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Iptables</title>
-      <link>//localhost:1313/posts/system/linux-iptables/</link>
+      <link>blog.2332334.xyz/posts/system/linux-iptables/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-iptables/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-iptables/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux KernelUpdate</title>
-      <link>//localhost:1313/posts/system/linux-kernelupdate/</link>
+      <link>blog.2332334.xyz/posts/system/linux-kernelupdate/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-kernelupdate/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-kernelupdate/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Lvm</title>
-      <link>//localhost:1313/posts/system/linux-lvm/</link>
+      <link>blog.2332334.xyz/posts/system/linux-lvm/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-lvm/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-lvm/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux LvmRecoverData</title>
-      <link>//localhost:1313/posts/system/linux-lvmrecoverdata/</link>
+      <link>blog.2332334.xyz/posts/system/linux-lvmrecoverdata/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-lvmrecoverdata/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-lvmrecoverdata/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Path</title>
-      <link>//localhost:1313/posts/system/linux-path/</link>
+      <link>blog.2332334.xyz/posts/system/linux-path/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-path/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-path/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Port</title>
-      <link>//localhost:1313/posts/system/linux-port/</link>
+      <link>blog.2332334.xyz/posts/system/linux-port/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-port/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-port/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux PubkeyLogin</title>
-      <link>//localhost:1313/posts/system/linux-pubkeylogin/</link>
+      <link>blog.2332334.xyz/posts/system/linux-pubkeylogin/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-pubkeylogin/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-pubkeylogin/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux PXE 无人值守安装</title>
-      <link>//localhost:1313/posts/system/linux-pxe-%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88%E5%AE%89%E8%A3%85/</link>
+      <link>blog.2332334.xyz/posts/system/linux-pxe-%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88%E5%AE%89%E8%A3%85/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-pxe-%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88%E5%AE%89%E8%A3%85/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-pxe-%E6%97%A0%E4%BA%BA%E5%80%BC%E5%AE%88%E5%AE%89%E8%A3%85/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux RAID</title>
-      <link>//localhost:1313/posts/system/linux-raid/</link>
+      <link>blog.2332334.xyz/posts/system/linux-raid/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-raid/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-raid/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux RAID LSI</title>
-      <link>//localhost:1313/posts/system/linux-raid-lsi/</link>
+      <link>blog.2332334.xyz/posts/system/linux-raid-lsi/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-raid-lsi/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-raid-lsi/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Rsync</title>
-      <link>//localhost:1313/posts/system/linux-rsync/</link>
+      <link>blog.2332334.xyz/posts/system/linux-rsync/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-rsync/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-rsync/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Shell</title>
-      <link>//localhost:1313/posts/system/linux-shell/</link>
+      <link>blog.2332334.xyz/posts/system/linux-shell/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-shell/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-shell/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux SSH</title>
-      <link>//localhost:1313/posts/system/linux-ssh/</link>
+      <link>blog.2332334.xyz/posts/system/linux-ssh/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-ssh/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-ssh/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Sudo</title>
-      <link>//localhost:1313/posts/system/linux-sudo/</link>
+      <link>blog.2332334.xyz/posts/system/linux-sudo/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-sudo/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-sudo/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux Upload</title>
-      <link>//localhost:1313/posts/system/linux-upload/</link>
+      <link>blog.2332334.xyz/posts/system/linux-upload/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-upload/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-upload/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux 后台运行</title>
-      <link>//localhost:1313/posts/system/linux-%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C/</link>
+      <link>blog.2332334.xyz/posts/system/linux-%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-%E5%90%8E%E5%8F%B0%E8%BF%90%E8%A1%8C/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux 资源管理</title>
-      <link>//localhost:1313/posts/system/linux-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86/</link>
+      <link>blog.2332334.xyz/posts/system/linux-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/linux-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86/</guid>
+      <guid>blog.2332334.xyz/posts/system/linux-%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>//localhost:1313/posts/blog/markdown/</link>
+      <link>blog.2332334.xyz/posts/blog/markdown/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog/markdown/</guid>
+      <guid>blog.2332334.xyz/posts/blog/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Mongodb</title>
-      <link>//localhost:1313/posts/software/mongodb/</link>
+      <link>blog.2332334.xyz/posts/software/mongodb/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/mongodb/</guid>
+      <guid>blog.2332334.xyz/posts/software/mongodb/</guid>
       <description></description>
     </item>
     <item>
       <title>Mysql2</title>
-      <link>//localhost:1313/posts/software/mysql-%E5%AE%89%E8%A3%85%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96/</link>
+      <link>blog.2332334.xyz/posts/software/mysql-%E5%AE%89%E8%A3%85%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/mysql-%E5%AE%89%E8%A3%85%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96/</guid>
+      <guid>blog.2332334.xyz/posts/software/mysql-%E5%AE%89%E8%A3%85%E5%92%8C%E5%88%9D%E5%A7%8B%E5%8C%96/</guid>
       <description></description>
     </item>
     <item>
       <title>Nginx</title>
-      <link>//localhost:1313/posts/software/nginx/</link>
+      <link>blog.2332334.xyz/posts/software/nginx/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/nginx/</guid>
+      <guid>blog.2332334.xyz/posts/software/nginx/</guid>
       <description></description>
     </item>
     <item>
       <title>Nginx 优化</title>
-      <link>//localhost:1313/posts/software/nginx-%E4%BC%98%E5%8C%96/</link>
+      <link>blog.2332334.xyz/posts/software/nginx-%E4%BC%98%E5%8C%96/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/nginx-%E4%BC%98%E5%8C%96/</guid>
+      <guid>blog.2332334.xyz/posts/software/nginx-%E4%BC%98%E5%8C%96/</guid>
       <description></description>
     </item>
     <item>
       <title>Nmap</title>
-      <link>//localhost:1313/posts/software/nmap/</link>
+      <link>blog.2332334.xyz/posts/software/nmap/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/nmap/</guid>
+      <guid>blog.2332334.xyz/posts/software/nmap/</guid>
       <description></description>
     </item>
     <item>
       <title>node nvm</title>
-      <link>//localhost:1313/posts/web/node&#43;nvm/</link>
+      <link>blog.2332334.xyz/posts/web/node&#43;nvm/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/node&#43;nvm/</guid>
+      <guid>blog.2332334.xyz/posts/web/node&#43;nvm/</guid>
       <description></description>
     </item>
     <item>
       <title>Nvidia Error</title>
-      <link>//localhost:1313/posts/system/nvidia-error/</link>
+      <link>blog.2332334.xyz/posts/system/nvidia-error/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/nvidia-error/</guid>
+      <guid>blog.2332334.xyz/posts/system/nvidia-error/</guid>
       <description></description>
     </item>
     <item>
       <title>Phcsa</title>
-      <link>//localhost:1313/posts/system/phcsa/</link>
+      <link>blog.2332334.xyz/posts/system/phcsa/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/phcsa/</guid>
+      <guid>blog.2332334.xyz/posts/system/phcsa/</guid>
       <description></description>
     </item>
     <item>
       <title>PHP</title>
-      <link>//localhost:1313/posts/software/php/</link>
+      <link>blog.2332334.xyz/posts/software/php/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/php/</guid>
+      <guid>blog.2332334.xyz/posts/software/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Pip Change Path</title>
-      <link>//localhost:1313/posts/code/python/pip-change-path/</link>
+      <link>blog.2332334.xyz/posts/code/python/pip-change-path/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/pip-change-path/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/pip-change-path/</guid>
       <description></description>
     </item>
     <item>
       <title>Python Change Source</title>
-      <link>//localhost:1313/posts/code/python/python-change-source/</link>
+      <link>blog.2332334.xyz/posts/code/python/python-change-source/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/python-change-source/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/python-change-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Redis</title>
-      <link>//localhost:1313/posts/software/redis/</link>
+      <link>blog.2332334.xyz/posts/software/redis/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/redis/</guid>
+      <guid>blog.2332334.xyz/posts/software/redis/</guid>
       <description></description>
     </item>
     <item>
       <title>Tool</title>
-      <link>//localhost:1313/posts/software/tool/</link>
+      <link>blog.2332334.xyz/posts/software/tool/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/tool/</guid>
+      <guid>blog.2332334.xyz/posts/software/tool/</guid>
       <description></description>
     </item>
     <item>
       <title>TS</title>
-      <link>//localhost:1313/posts/web/typescript/</link>
+      <link>blog.2332334.xyz/posts/web/typescript/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/typescript/</guid>
+      <guid>blog.2332334.xyz/posts/web/typescript/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu Autoupdate</title>
-      <link>//localhost:1313/posts/system/ubuntu-autoupdate/</link>
+      <link>blog.2332334.xyz/posts/system/ubuntu-autoupdate/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/ubuntu-autoupdate/</guid>
+      <guid>blog.2332334.xyz/posts/system/ubuntu-autoupdate/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu ChangeSource</title>
-      <link>//localhost:1313/posts/system/ubuntu-changesource/</link>
+      <link>blog.2332334.xyz/posts/system/ubuntu-changesource/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/ubuntu-changesource/</guid>
+      <guid>blog.2332334.xyz/posts/system/ubuntu-changesource/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu 安装搜狗输入法</title>
-      <link>//localhost:1313/posts/system/ubuntu-%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95/</link>
+      <link>blog.2332334.xyz/posts/system/ubuntu-%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/ubuntu-%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95/</guid>
+      <guid>blog.2332334.xyz/posts/system/ubuntu-%E5%AE%89%E8%A3%85%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95/</guid>
       <description></description>
     </item>
     <item>
       <title>V2ray</title>
-      <link>//localhost:1313/posts/software/v2ray/</link>
+      <link>blog.2332334.xyz/posts/software/v2ray/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/v2ray/</guid>
+      <guid>blog.2332334.xyz/posts/software/v2ray/</guid>
       <description></description>
     </item>
     <item>
       <title>Vim</title>
-      <link>//localhost:1313/posts/software/vim/</link>
+      <link>blog.2332334.xyz/posts/software/vim/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/vim/</guid>
+      <guid>blog.2332334.xyz/posts/software/vim/</guid>
       <description></description>
     </item>
     <item>
       <title>VM Centos7 无法联网</title>
-      <link>//localhost:1313/posts/system/vm-centos7-%E6%97%A0%E6%B3%95%E8%81%94%E7%BD%91/</link>
+      <link>blog.2332334.xyz/posts/system/vm-centos7-%E6%97%A0%E6%B3%95%E8%81%94%E7%BD%91/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/vm-centos7-%E6%97%A0%E6%B3%95%E8%81%94%E7%BD%91/</guid>
+      <guid>blog.2332334.xyz/posts/system/vm-centos7-%E6%97%A0%E6%B3%95%E8%81%94%E7%BD%91/</guid>
       <description></description>
     </item>
     <item>
       <title>VM虚拟机装黑苹果</title>
-      <link>//localhost:1313/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</link>
+      <link>blog.2332334.xyz/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</guid>
+      <guid>blog.2332334.xyz/posts/software/vm%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%A3%85%E9%BB%91%E8%8B%B9%E6%9E%9C/</guid>
       <description></description>
     </item>
     <item>
       <title>vscode Eslint Prettier 配置</title>
-      <link>//localhost:1313/posts/web/eslint_prettier/</link>
+      <link>blog.2332334.xyz/posts/web/eslint_prettier/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/eslint_prettier/</guid>
+      <guid>blog.2332334.xyz/posts/web/eslint_prettier/</guid>
       <description></description>
     </item>
     <item>
       <title>Vscode Setting</title>
-      <link>//localhost:1313/posts/software/vscode-setting/</link>
+      <link>blog.2332334.xyz/posts/software/vscode-setting/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/vscode-setting/</guid>
+      <guid>blog.2332334.xyz/posts/software/vscode-setting/</guid>
       <description></description>
     </item>
     <item>
       <title>VscodeServer</title>
-      <link>//localhost:1313/posts/software/vscodeserver/</link>
+      <link>blog.2332334.xyz/posts/software/vscodeserver/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/vscodeserver/</guid>
+      <guid>blog.2332334.xyz/posts/software/vscodeserver/</guid>
       <description></description>
     </item>
     <item>
       <title>VUE</title>
-      <link>//localhost:1313/posts/web/vue/</link>
+      <link>blog.2332334.xyz/posts/web/vue/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/vue/</guid>
+      <guid>blog.2332334.xyz/posts/web/vue/</guid>
       <description></description>
     </item>
     <item>
       <title>Vue3 &#43; vite 配置env环境变量</title>
-      <link>//localhost:1313/posts/web/vue3&#43;vite&#43;env/</link>
+      <link>blog.2332334.xyz/posts/web/vue3&#43;vite&#43;env/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/vue3&#43;vite&#43;env/</guid>
+      <guid>blog.2332334.xyz/posts/web/vue3&#43;vite&#43;env/</guid>
       <description></description>
     </item>
     <item>
       <title>vue3&#43;vite&#43;sass</title>
-      <link>//localhost:1313/posts/web/vue3&#43;vite&#43;sass/</link>
+      <link>blog.2332334.xyz/posts/web/vue3&#43;vite&#43;sass/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/vue3&#43;vite&#43;sass/</guid>
+      <guid>blog.2332334.xyz/posts/web/vue3&#43;vite&#43;sass/</guid>
       <description></description>
     </item>
     <item>
       <title>wechatApp</title>
-      <link>//localhost:1313/posts/web/wechat/</link>
+      <link>blog.2332334.xyz/posts/web/wechat/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/web/wechat/</guid>
+      <guid>blog.2332334.xyz/posts/web/wechat/</guid>
       <description></description>
     </item>
     <item>
       <title>Win10 IIS Enable DotnetF4.5</title>
-      <link>//localhost:1313/posts/system/win10-iis-enable-dotnetf4.5/</link>
+      <link>blog.2332334.xyz/posts/system/win10-iis-enable-dotnetf4.5/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/win10-iis-enable-dotnetf4.5/</guid>
+      <guid>blog.2332334.xyz/posts/system/win10-iis-enable-dotnetf4.5/</guid>
       <description></description>
     </item>
     <item>
       <title>WinTerminel美化</title>
-      <link>//localhost:1313/posts/system/winterminel%E7%BE%8E%E5%8C%96/</link>
+      <link>blog.2332334.xyz/posts/system/winterminel%E7%BE%8E%E5%8C%96/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/winterminel%E7%BE%8E%E5%8C%96/</guid>
+      <guid>blog.2332334.xyz/posts/system/winterminel%E7%BE%8E%E5%8C%96/</guid>
       <description></description>
     </item>
     <item>
       <title>WSL</title>
-      <link>//localhost:1313/posts/system/wsl/</link>
+      <link>blog.2332334.xyz/posts/system/wsl/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/system/wsl/</guid>
+      <guid>blog.2332334.xyz/posts/system/wsl/</guid>
       <description></description>
     </item>
     <item>
       <title>青龙面板</title>
-      <link>//localhost:1313/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</link>
+      <link>blog.2332334.xyz/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</guid>
+      <guid>blog.2332334.xyz/posts/software/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF/</guid>
       <description></description>
     </item>
     <item>
       <title>Django</title>
-      <link>//localhost:1313/posts/code/python/django/</link>
+      <link>blog.2332334.xyz/posts/code/python/django/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:45 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/django/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/django/</guid>
       <description></description>
     </item>
     <item>
       <title>Django Uwsgi</title>
-      <link>//localhost:1313/posts/code/python/django-uwsgi/</link>
+      <link>blog.2332334.xyz/posts/code/python/django-uwsgi/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:45 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/django-uwsgi/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/django-uwsgi/</guid>
       <description></description>
     </item>
     <item>
       <title>子域名博客折腾</title>
-      <link>//localhost:1313/posts/blog/%E5%AD%90%E5%9F%9F%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE/</link>
+      <link>blog.2332334.xyz/posts/blog/%E5%AD%90%E5%9F%9F%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:37 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog/%E5%AD%90%E5%9F%9F%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE/</guid>
+      <guid>blog.2332334.xyz/posts/blog/%E5%AD%90%E5%9F%9F%E5%90%8D%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE/</guid>
       <description></description>
     </item>
     <item>
       <title>门罗挖矿 XMRig自编译无捐献版本</title>
-      <link>//localhost:1313/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</link>
+      <link>blog.2332334.xyz/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:37 +0800</pubDate>
-      <guid>//localhost:1313/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</guid>
+      <guid>blog.2332334.xyz/posts/web3/%E9%97%A8%E7%BD%97%E6%8C%96%E7%9F%BF-xmrig%E8%87%AA%E7%BC%96%E8%AF%91%E6%97%A0%E6%8D%90%E7%8C%AE%E7%89%88%E6%9C%AC/</guid>
       <description></description>
     </item>
     <item>
       <title>Typecho-First</title>
-      <link>//localhost:1313/posts/blog/typecho-first/</link>
+      <link>blog.2332334.xyz/posts/blog/typecho-first/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:32 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog/typecho-first/</guid>
+      <guid>blog.2332334.xyz/posts/blog/typecho-first/</guid>
       <description></description>
     </item>
     <item>
       <title>门罗初试</title>
-      <link>//localhost:1313/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</link>
+      <link>blog.2332334.xyz/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:28 +0800</pubDate>
-      <guid>//localhost:1313/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</guid>
+      <guid>blog.2332334.xyz/posts/web3/%E9%97%A8%E7%BD%97%E5%88%9D%E8%AF%95/</guid>
       <description></description>
     </item>
     <item>
       <title>Typecho Change Theme</title>
-      <link>//localhost:1313/posts/blog/typecho-change-theme/</link>
+      <link>blog.2332334.xyz/posts/blog/typecho-change-theme/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:20 +0800</pubDate>
-      <guid>//localhost:1313/posts/blog/typecho-change-theme/</guid>
+      <guid>blog.2332334.xyz/posts/blog/typecho-change-theme/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>//localhost:1313/posts/code/go/golang/</link>
+      <link>blog.2332334.xyz/posts/code/go/golang/</link>
       <pubDate>Mon, 08 Nov 2021 19:58:18 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/go/golang/</guid>
+      <guid>blog.2332334.xyz/posts/code/go/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Yanderify Try</title>
-      <link>//localhost:1313/posts/code/python/yanderify-try/</link>
+      <link>blog.2332334.xyz/posts/code/python/yanderify-try/</link>
       <pubDate>Mon, 08 Nov 2021 08:59:08 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/yanderify-try/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/yanderify-try/</guid>
       <description></description>
     </item>
     <item>
       <title>Scrapy Vscode Debug</title>
-      <link>//localhost:1313/posts/code/python/scrapy-vscode-debug/</link>
+      <link>blog.2332334.xyz/posts/code/python/scrapy-vscode-debug/</link>
       <pubDate>Tue, 29 Jun 2021 08:46:23 +0800</pubDate>
-      <guid>//localhost:1313/posts/code/python/scrapy-vscode-debug/</guid>
+      <guid>blog.2332334.xyz/posts/code/python/scrapy-vscode-debug/</guid>
       <description></description>
     </item>
     <item>
       <title>Mysql</title>
-      <link>//localhost:1313/posts/software/mysql-%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</link>
+      <link>blog.2332334.xyz/posts/software/mysql-%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</link>
       <pubDate>Sat, 19 Jun 2021 19:58:55 +0800</pubDate>
-      <guid>//localhost:1313/posts/software/mysql-%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</guid>
+      <guid>blog.2332334.xyz/posts/software/mysql-%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>Tags</title>
-      <link>//localhost:1313/tag/</link>
+      <link>blog.2332334.xyz/tag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tag/</guid>
+      <guid>blog.2332334.xyz/tag/</guid>
       <description>tags</description>
     </item>
   </channel>
